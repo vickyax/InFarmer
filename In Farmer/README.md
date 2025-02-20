@@ -1,6 +1,6 @@
 ## Inspiration
 
-![heroimage](projectImages/hero2.jpg)
+![heroimage](In%20Farmer/projectImages/hero2-min(1).jpg)
 The idea for In-Farmer came from my passion for solving real-world problems with technology. I was particularly drawn to agriculture, a vital yet underserved sector, where I saw farmers struggling to find direct buyers and relying on middlemen who cut into their profits. Buyers, too, faced challenges in sourcing fresh produce directly at fair prices.
 
 I began asking key questions: Why can’t digital platforms connect farmers directly to buyers? How can we make agricultural transactions more efficient, fair, and transparent? What technologies could streamline this process?
@@ -18,16 +18,16 @@ the source.
 
 **Home Page**
 
-![home](projectImages/Screenshot%20(780).png?raw=true)
+![home](In%20Farmer/projectImages/Screenshot%20(780).png?raw=true)
 
 **Product Listing Page Or Sellers page**
 
 Allows farmers to list their products with forms for
 input.
-![seller page](projectImages/Screenshot%20(784).png?raw=true)
+![seller page](In%20Farmer/projectImages/Screenshot%20(784).png?raw=true)
 
 **Buyers page**
-![buyers](projectImages/Screenshot%20(783).png?raw=true)
+![buyers](In%20Farmer/projectImages/Screenshot%20(783).png?raw=true)
 
 **User Experience**
 
@@ -40,13 +40,13 @@ transactions with minimal friction.
 The app use Svelte’s i18 translation module to
 ensure individuals can access the app in their own native language.
 
-![multi language](projectImages/Screenshot%20(787).png?raw=true)
+![multi language](In%20Farmer/projectImages/Screenshot%20(787).png?raw=true)
 
 **Stock Prices of Commodities**
 
 shows the up to date price information of agricultural commodities sold in markets using the government provided agricultural api, which helps in farmers deciding on the best price to sell their harvest.
 
-![multi language](projectImages/Screenshot%20(787).png?raw=true)
+![multi language]In%20Farmer/projectImages/Screenshot%20(787).png?raw=true)
 
 # How we built it
 
@@ -54,7 +54,7 @@ shows the up to date price information of agricultural commodities sold in marke
 To bring **In-Farmer** to life, I developed it as a full-stack application, leveraging a combination of modern technologies to ensure scalability, performance, and an exceptional user experience. Here's a breakdown of the tech stack and tools used:
 
 ## Frontend Development
-![Home](projectImages/Screenshot%20(780).png?raw=true)
+![Home](In%20Farmer/projectImages/Screenshot%20(780).png?raw=true)
 
 
 - **Framework**
@@ -89,13 +89,13 @@ To bring **In-Farmer** to life, I developed it as a full-stack application, leve
 - **Government Agricultural API**:
 - 
   Integrated a government agricultural API to fetch real-time market prices for products, ensuring farmers and buyers have access to accurate and up-to-date pricing information.
-![api response](main/projectImages/Screenshot%20(792).png?raw=true)
+![api response](In%20Farmer/projectImages/Screenshot%20(792).png?raw=true)
 
 ## Hosting & Deployment
 - **Platform**: Netlify  
   
   Netlify was chosen for hosting due to its simplicity, scalability, and support for continuous deployment. It allowed for automatic updates and ensured the platform was always running the latest version.
-![netlify2](projectImages/Screenshot%20(788).png?raw=true)
+![netlify2](In%20Farmer/projectImages/Screenshot%20(788).png?raw=true)
 
 <!--## Key Features of the Prototype-->
 <!-- **User Authentication**: Secure login and registration for farmers and buyers.  -->
