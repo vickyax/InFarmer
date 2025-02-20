@@ -79,7 +79,7 @@ To bring **In-Farmer** to life, I developed it as a full-stack application, leve
 - **Firebase**
 
   ![Firebase Icon](https://raw.githubusercontent.com/firebase/firebase-chrome-extension/master/icons/icon48.png)  
-![firebase](projectImages/Screenshot%20(791).png?raw=true)
+![firebase](In%20Farmer/projectImages/Screenshot%20(791).png?raw=true)
   Firebase was the backbone of the backend, offering real-time database capabilities, authentication, and seamless integration with the frontend. It enabled features like user authentication, product listings, and transaction management.
 
 - **APIs**: REST APIs  
@@ -224,7 +224,7 @@ We hosted the app on Netlify for continuous deployment with GitHub integration a
 
 By making the code open-source, we encourage collaboration and allow others to contribute, learn, and improve the platform.
 
-We published the GitHub repository:  [GitHub - In-Farmer](https://github.com/vickyax/In-Farmer) and documented the project with a detailed README to help developers understand and contribute. This makes In-Farmer not just a standalone project but a collaborative effort for future growth.
+We published the GitHub repository:  [GitHub - In-Farmer](https://github.com/vickyax/InFarmer) and documented the project with a detailed README to help developers understand and contribute. This makes In-Farmer not just a standalone project but a collaborative effort for future growth.
 
 These accomplishments reflect our commitment to creating a platform that empowers farmers, connects communities, and leverages technology for real-world impact.
 
